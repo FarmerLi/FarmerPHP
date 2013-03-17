@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+	<!-- //Example...
+    <package name="example" path="Framework/Example">
+        <namespace>Framework\Example</namespace>
+        <namespace>Framework\Example\Test</namespace>
+    </package>
+    <package name="example_1" path="Framework/Example_1">
+        <namespace>Framework\Example\Test_1</namespace>
+    </package>
+	-->
+</packages>
